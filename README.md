@@ -7,8 +7,8 @@ Foram feitos dois agentes inteligentes para jogar o Othello.
 Eles podem ser encontrados na pasta "models/players".
 
 São eles:
- 1. Guloso: sempre escolhe a jogada que "come" mais peças do inimigo.
- 2. Minimax: implementaço do Minimax com corte alfa-beta.
+ 1. Guloso: sempre escolhe a jogada que "come" mais peças do inimigo. (claudia_eduardo_guloso_player.py)
+ 2. Minimax: implementaço do Minimax com corte alfa-beta. (claudia_eduardo_minimax_player.py)
 
 
 ## Componentes do grupo
